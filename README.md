@@ -8,4 +8,6 @@
   - The dashboard should have a clean and responsive design that is easy to use and navigate.
   - To add a new book, click on the "Add Book" button and fill in the required details. To edit a book's information, click on the "Edit" button next to the book's record and make the necessary changes. To delete a 
     book, click on the "Delete" button next to the book's record. Author Management:
+# Netlify URL : 
+  - https://react-fromik.netlify.app
 
